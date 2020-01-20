@@ -1,4 +1,4 @@
-# Movie-Recommendation-Tool
+# Movie-Recommendation-Tools
 
 Built two models to predict movies a consumer would like. 
 
