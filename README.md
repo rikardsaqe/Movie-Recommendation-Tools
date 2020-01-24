@@ -1,8 +1,8 @@
 # Movie-Recommendation-Tools
 
 Built two models to predict movies a consumer would like:
-- First, a Restricted Boltzmann Machine, with a ~76% accuracy at predicting binary results (the person either liked the movie or not).
-- Second, a Stacked Autoencoder that predicted how much a user would like a movie given a rating of 1-5 with a less than 1 star difference (about ~0.95 start difference).
+- A Restricted Boltzmann Machine, with a ~76% accuracy at predicting binary results (the person either liked the movie or not).
+- A Stacked Autoencoder that predicted how much a user would like a movie given a rating of 1-5 with a less than 1 star difference (about ~0.95 start difference).
 
 # Getting Started
 - Download built_rbm.py, built_ae, ml-100k, and ml-1m into the same folder
