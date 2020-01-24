@@ -12,7 +12,7 @@ Built two models to predict movies a consumer would like:
 - **The environment:** [Spyder IDE](https://www.spyder-ide.org/)
 - **Data Processing:** [NumPy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), and [Scikit-learn](https://scikit-learn.org/stable/index.html) 
 - **Model Training/Iterating:** [Pytorch](https://pytorch.org/)
-- **Programming Concepts:** Used some object oriented programming principles like inheritance.
+- **Programming Concepts:** Object oriented programming principles like inheritance.
 - **Education:** Part of the [Deep Learning A-Z Udemy course](https://www.udemy.com/course/deeplearning/)
 
 # Challenges
